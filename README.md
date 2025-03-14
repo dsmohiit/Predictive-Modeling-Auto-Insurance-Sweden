@@ -42,7 +42,7 @@ The dataset (`swedish_insurance.csv`) consists of:
 ### **How to Run the Project?**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/insurance-prediction.git
+   git clone https://github.com/dsmohiit/Predictive-Modeling-Auto-Insurance-Sweden
    ```
 2. Install dependencies:  
    ```bash
